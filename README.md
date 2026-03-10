@@ -229,7 +229,7 @@ This repo accompanies our review of deep learning-based underwater vision and wi
 - **Unsupervised CNN** for joint polarization‑ and binocular‑depth–based underwater imaging in *Optics Express* (2024). [Paper](https://opg.optica.org/oe/abstract.cfm?uri=oe-32-6-9904)
 - **YOLOv4-based Polarimetric Detector** for polarimetric target detection in turbid, camouflaged underwater conditions in *Optics & Laser Technology* (2024). [Paper](https://www.sciencedirect.com/science/article/pii/S0030399224000070)
 - **Stokes-parameter Detector** {CNN} for rapid detection of camouflaged artificial targets in turbid water using polarization Stokes parameters in *IEEE Photonics Journal* (2021). [Paper](https://doi.org/10.1109/JPHOT.2021.3103866)
-- **Descatterring Network + DoP and AoP Calculation** {Multiscale local feature extraction + Encoder block (EBlock) and Decoder block (DBlock} for high‑quality 3D shape recovery in turbid underwater scattering scenes in *Optics and Lasers in Engineering* (2024). [Paper](https://www.sciencedirect.com/science/article/pii/S0143816623004633)
+- **Descatterring Network + DoP and AoP Calculation** {Multiscale local feature extraction + Encoder block + Decoder block} for high‑quality 3D shape recovery in turbid underwater scattering scenes in *Optics and Lasers in Engineering* (2024). [Paper](https://www.sciencedirect.com/science/article/pii/S0143816623004633)
 
 ## Magnetic imaging
 - **Multiphysical Features Fusion CNN** {ACFM Sensor - CNN} for crack detection and quantification in underwater metallic structures using alternating current field measurement in *IEEE Transactions on Instrumentation and Measurement* (2024). [Paper](https://ieeexplore.ieee.org/document/10485559)
